@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi there, I'm Salauddin Ahmed Sakib 👋
 
-<!--
-**sakib47-dot/sakib47-dot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🎓 About Me
+- 🎓 I am a student from Bangladesh. (Dhaka Central Polytechnic Institute)
+- 🌱 Currently learning programming and exploring open-source.
+- 💻 Interested in software development and technology.
+- 🎯 Goal: Build useful projects and contribute to the developer community.
 
-Here are some ideas to get you started:
+## 🛠️ Skills I'm Learning
+- Programming Fundamentals
+- Git & GitHub
+- Web Development (HTML, CSS, JavaScript)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 Current Focus
+- Learning how to use Git and GitHub for version control.
+- Building small projects to improve my skills.
+- Preparing to contribute to open-source projects.
+
+## 📫 Connect with Me
+- GitHub: [@sakib47-dot](https://github.com/sakib47-dot)
+
+---
+⭐ Thanks for visiting my profile!
