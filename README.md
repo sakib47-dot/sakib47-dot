@@ -1,6 +1,6 @@
 # Hi there, I'm Salauddin Ahmed Sakib 👋
 
-## 🎓 About Me
+## 🎓 About Me ## 
 - 🎓 I am a student from Bangladesh. (Dhaka Central Polytechnic Institute)
 - 🌱 Currently learning programming and exploring open-source.
 - 💻 Interested in software development and technology.
